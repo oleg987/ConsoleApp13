@@ -13,7 +13,7 @@ namespace ConsoleApp13
             x = (int)y;
 
             y = x;
-            // 
+            // Some changes
             Console.WriteLine(y);
         }
     }
